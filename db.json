@@ -1,0 +1,304 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design homepage",
+      "description": "Include hero section",
+      "column": "backlog"
+    },
+    {
+      "id": 2,
+      "title": "Implement authentication",
+      "description": "Use JWT for login",
+      "column": "in-progress"
+    },
+    {
+      "id": 3,
+      "title": "Set up database",
+      "description": "Configure PostgreSQL",
+      "column": "backlog"
+    },
+    {
+      "id": 4,
+      "title": "Create user model",
+      "description": "Define user schema",
+      "column": "review"
+    },
+    {
+      "id": 5,
+      "title": "Build task board UI",
+      "description": "Drag and drop columns",
+      "column": "done"
+    },
+    {
+      "id": 6,
+      "title": "Add notifications",
+      "description": "Push notifications for updates",
+      "column": "backlog"
+    },
+    {
+      "id": 7,
+      "title": "Integrate API",
+      "description": "Connect frontend to backend",
+      "column": "in-progress"
+    },
+    {
+      "id": 8,
+      "title": "Write unit tests",
+      "description": "Test core functions",
+      "column": "review"
+    },
+    {
+      "id": 9,
+      "title": "Optimize images",
+      "description": "Compress assets",
+      "column": "done"
+    },
+    {
+      "id": 10,
+      "title": "Implement search",
+      "description": "Add search bar",
+      "column": "backlog"
+    },
+    {
+      "id": 11,
+      "title": "Set up CI/CD",
+      "description": "Automate deployments",
+      "column": "in-progress"
+    },
+    {
+      "id": 12,
+      "title": "Create error pages",
+      "description": "404 and 500 pages",
+      "column": "review"
+    },
+    {
+      "id": 13,
+      "title": "Add dark mode",
+      "description": "Theme toggle",
+      "column": "done"
+    },
+    {
+      "id": 14,
+      "title": "Configure ESLint",
+      "description": "Linting rules",
+      "column": "backlog"
+    },
+    {
+      "id": 15,
+      "title": "Set up routing",
+      "description": "React Router setup",
+      "column": "in-progress"
+    },
+    {
+      "id": 16,
+      "title": "Create profile page",
+      "description": "User info and avatar",
+      "column": "review"
+    },
+    {
+      "id": 17,
+      "title": "Add comments feature",
+      "description": "Task comments",
+      "column": "done"
+    },
+    {
+      "id": 18,
+      "title": "Implement drag and drop",
+      "description": "Move tasks between columns",
+      "column": "backlog"
+    },
+    {
+      "id": 19,
+      "title": "Set up Redux",
+      "description": "State management",
+      "column": "in-progress"
+    },
+    {
+      "id": 20,
+      "title": "Add loading spinners",
+      "description": "Show spinner on API calls",
+      "column": "review"
+    },
+    {
+      "id": 21,
+      "title": "Create settings page",
+      "description": "User preferences",
+      "column": "done"
+    },
+    {
+      "id": 22,
+      "title": "Add password reset",
+      "description": "Forgot password flow",
+      "column": "backlog"
+    },
+    {
+      "id": 23,
+      "title": "Integrate OAuth",
+      "description": "Google login",
+      "column": "in-progress"
+    },
+    {
+      "id": 24,
+      "title": "Create dashboard",
+      "description": "Overview of tasks",
+      "column": "review"
+    },
+    {
+      "id": 25,
+      "title": "Add file upload",
+      "description": "Attach files to tasks",
+      "column": "done"
+    },
+    {
+      "id": 26,
+      "title": "Set up logging",
+      "description": "Log user actions",
+      "column": "backlog"
+    },
+    {
+      "id": 27,
+      "title": "Create calendar view",
+      "description": "Show tasks by date",
+      "column": "in-progress"
+    },
+    {
+      "id": 28,
+      "title": "Add task priority",
+      "description": "High/Medium/Low",
+      "column": "review"
+    },
+    {
+      "id": 29,
+      "title": "Implement pagination",
+      "description": "Paginate task list",
+      "column": "done"
+    },
+    {
+      "id": 30,
+      "title": "Add avatars",
+      "description": "Show user avatars",
+      "column": "backlog"
+    },
+    {
+      "id": 31,
+      "title": "Set up email service",
+      "description": "Send notifications",
+      "column": "in-progress"
+    },
+    {
+      "id": 32,
+      "title": "Create help page",
+      "description": "FAQ and support",
+      "column": "review"
+    },
+    {
+      "id": 33,
+      "title": "Add analytics",
+      "description": "Track usage",
+      "column": "done"
+    },
+    {
+      "id": 34,
+      "title": "Implement sorting",
+      "description": "Sort tasks by column",
+      "column": "backlog"
+    },
+    {
+      "id": 35,
+      "title": "Create admin panel",
+      "description": "Manage users",
+      "column": "in-progress"
+    },
+    {
+      "id": 36,
+      "title": "Add markdown support",
+      "description": "Format descriptions",
+      "column": "review"
+    },
+    {
+      "id": 37,
+      "title": "Set up webhooks",
+      "description": "Trigger on events",
+      "column": "done"
+    },
+    {
+      "id": 38,
+      "title": "Create onboarding flow",
+      "description": "Welcome new users",
+      "column": "backlog"
+    },
+    {
+      "id": 39,
+      "title": "Add multi-language support",
+      "description": "i18n setup",
+      "column": "in-progress"
+    },
+    {
+      "id": 40,
+      "title": "Create feedback form",
+      "description": "Collect user feedback",
+      "column": "review"
+    },
+    {
+      "id": 41,
+      "title": "Add tags",
+      "description": "Tag tasks",
+      "column": "done"
+    },
+    {
+      "id": 42,
+      "title": "Set up SSO",
+      "description": "Single sign-on integration",
+      "column": "backlog"
+    },
+    {
+      "id": 43,
+      "title": "Create audit log",
+      "description": "Track changes",
+      "column": "in-progress"
+    },
+    {
+      "id": 44,
+      "title": "Add reminders",
+      "description": "Remind users of deadlines",
+      "column": "review"
+    },
+    {
+      "id": 45,
+      "title": "Implement export feature",
+      "description": "Export tasks to CSV",
+      "column": "done"
+    },
+    {
+      "id": 46,
+      "title": "Set up cache",
+      "description": "Improve performance",
+      "column": "backlog"
+    },
+    {
+      "id": 47,
+      "title": "Create changelog",
+      "description": "Document releases",
+      "column": "in-progress"
+    },
+    {
+      "id": 48,
+      "title": "Add custom fields",
+      "description": "Allow custom task properties",
+      "column": "review"
+    },
+    {
+      "id": 49,
+      "title": "Implement archiving",
+      "description": "Archive completed tasks",
+      "column": "done"
+    },
+    {
+      "id": 50,
+      "title": "Set up mobile view",
+      "description": "Responsive design for mobile",
+      "column": "backlog"
+    }
+  ]
+}
