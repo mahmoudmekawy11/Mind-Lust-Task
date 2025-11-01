@@ -5,9 +5,16 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "start": "vite --mode staging",
+    "start:dev": "tsc -b && vite --mode development",
+    "start:prod": "tsc -b && vite --mode production",
+    "start:staging": "tsc -b && vite --mode staging",
+    "build": "tsc -b && vite build --mode production",
+    "build:dev": "tsc -b && vite build --mode development",
+    "build:prod": "tsc -b && vite build --mode production",
+    "build:staging": "tsc -b && vite build --mode staging",
     "lint": "eslint .",
-    "preview": "vite preview",
+    "preview": "vite preview --mode production",
     "start-server": "json-server --watch db.json --port 4000"
   },
   "dependencies": {
